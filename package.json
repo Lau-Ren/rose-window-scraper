@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0-rc.12",
     "dotenv": "^4.0.0",
     "jsdom": "^15.1.1",
     "promise": "^7.1.1",
